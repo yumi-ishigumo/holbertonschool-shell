@@ -1,1 +1,0 @@
-pwd show current directory
