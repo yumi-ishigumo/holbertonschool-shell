@@ -1,1 +1,1 @@
-Shell basic commands
+Some shell basic commands in bash scripts
